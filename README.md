@@ -1,5 +1,14 @@
-<h1 align="center">Welcome to InesWithSourabh's GitHub</h1>
-
+<h1 align="center">Konnichiwa</h1>
 <p align="center">
   <img src="https://images5.alphacoders.com/138/thumb-1920-1382268.png" alt="Crush" width="100%" />
 </p>
+🧑‍💻 About Me
+
+Hi! I'm **Sourabh**, a passionate developer building an anime streaming website called **[kawaiines.in](https://kawaiines.in)**.  
+My goal is to make anime content more accessible, fast, and enjoyable for anime fans across India 🇮🇳.
+
+### 🌸 What is [Kawaiines.in](https://kawaiines.in)?
+> **Kawaiines** is a free anime streaming platform where you can:
+- 🎥 Watch your favorite anime in Hindi
+- 🚀 Stream fast with minimal ads
+- 💖 Enjoy a clean and kawaii user experience
