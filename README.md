@@ -1,6 +1,6 @@
 <h1 align="center">〢Konnichiwa</h1>
 <p align="center">
-  <img src="https://media1.tenor.com/m/N-gGLGbICDMAAAAC/fujimoto-kyomoto.gif" alt="Crush" width="100%" />
+  <img src="https://github.com/ines-withsourabh/ines-withsourabh/blob/main/fujimoto-kyomoto.gif?raw=true" alt="Crush" width="100%" />
 </p>
 🧑‍💻 About Me
 
